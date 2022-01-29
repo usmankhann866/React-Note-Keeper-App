@@ -1,0 +1,208 @@
+
+body {
+
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  background-color: whitesmoke;
+}
+
+.header_info{
+
+  background-color: orange;
+  box-shadow: 5px 5px 10px -10px rgb(0, 0, 0, 1);
+  padding: 12px;
+}
+
+img{
+  
+  border: 3px solid;
+  border-radius: 50%;
+  margin-left: 50px;
+}
+
+.head_style{
+ 
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+  font-size: 25px;
+  float: right;
+  margin-right: 74.5%;
+  margin-top: 20px;
+}
+
+.content_style{
+
+  width: 24%;
+  padding: 22px;
+  background-color: white;
+  margin-top: 5%;
+  text-align: center;
+  border: 2px solid whitesmoke;
+  border-radius: 5px;
+  box-shadow: 6px 6px 15px -10px rgb(0, 0, 0, 1);
+  margin-left: 40%;
+  
+
+}
+
+input{
+
+  border: none;
+  font-size: 20px;
+  font-weight: 500;
+  
+}
+
+textarea{
+
+  border: none;
+  float: inline-start;
+  margin-top: 6px;
+}
+
+button{
+
+  margin-left: 95%;
+  color: white;
+  border: 2px solid whitesmoke;
+  border-radius: 50%;
+  background-color: green;
+  width: 16%;
+  cursor: pointer;
+}
+
+footer{
+
+  margin-top: 42%;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+/* Note file Area */
+
+.note_content{
+
+  width: 24%;
+  padding: 22px;
+  background-color: white;
+  margin-top: 5%;
+  text-align: center;
+  border: 2px solid whitesmoke;
+  border-radius: 5px;
+  box-shadow: 6px 6px 15px -10px rgb(0, 0, 0, 1);
+}
+
+.btn_style{
+
+    background-color: red;
+    text-align: center;
+
+}
+
+h2{
+
+  margin-right: 70%;
+  font-size: 20px;
+}
+
+p{
+  margin-right: 20%;
+}
+/* .main_div{
+
+
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  margin-top: 30px;
+  background-color: white;
+  width: 20%;
+  min-height: 60%;
+  margin-left: 35%;
+  margin-top: 8%;
+  padding: 6%;
+  /* display: flex;
+  flex-direction: column; */
+  /* border: 5px solid whitesmoke;
+  border-radius: 15px;
+} */ 
+
+
+/* button{
+
+  margin-top: 13px;
+  padding: 10px;
+  border: 4px solid;
+  border-radius: 12%;
+  color: white;
+  background-color: orange;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 10%;
+  width: 20%;
+  justify-content: space-around;
+  box-shadow: 5px 5px 15px -5px rgb(0, 0, 0, 0.4);
+} */
+
+
+/* button:hover{
+
+  cursor: pointer;
+  background-color: white;
+}
+
+.btn_green:hover{
+
+  color: rgb(19, 243, 19);
+}
+
+.btn_red:hover{
+
+  color: red;
+} */
+
+/* h1{
+  width: 100%;
+  font-size: 25px;
+  color: black;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: orange;
+  padding: 6px 0 2px 0;
+  border: 3px solid;
+  border-radius: 5px;
+} */
+
+/* input{
+
+  margin-top: 5px;
+  margin-bottom: 15px;
+  width: 23%;
+  padding: 20px;
+  border: 2px solid;
+  border-radius: 5px;
+  text-align: center;
+  background-color: whitesmoke;
+
+} */
+
+/* @media screen and (max-width: 768px) {
+  
+  .main_div{
+
+    width: 60%;
+    min-height: 80%;
+    margin-top: 50%;
+    margin-left: 18%;
+    padding: 10% 0 25% 0;
+  }
+
+  button{
+
+    width: 45%;
+  }
+
+
+
+} */
