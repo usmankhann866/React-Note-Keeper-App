@@ -26,8 +26,8 @@ const CreateNote =  (props)=> {
      
         props.passNote(data);
         setData({
-            title: " ",
-            content: "",
+            title: "",
+            content: ""
         })
     }
 
